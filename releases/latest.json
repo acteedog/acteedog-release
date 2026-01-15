@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "notes": "See the full changelog at https://github.com/acteedog/acteedog-release/blob/main/CHANGELOG.md",
+  "pub_date": "2026-01-15T13:18:58Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.0/acteedog_0.1.0_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.0/acteedog_0.1.0_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.0/acteedog_0.1.0_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.0/acteedog_0.1.0_amd64.AppImage"
+    }
+  }
+}
