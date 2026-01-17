@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "notes": "See the full changelog at https://github.com/acteedog/acteedog-release/blob/main/CHANGELOG.md",
-  "pub_date": "2026-01-17T06:34:06Z",
+  "pub_date": "2026-01-17T07:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.0/acteedog_0.1.0_x64-setup.exe"
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.1/acteedog_0.1.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUekR5T1pOeTRMUWFieVhGU2hMd0tUYi9tcktDWENaMzB1a1hDR2NYUVBxNjBUQmQxSFdvVGxjM0tDL3lEWjd2cFZKendJRkZJSTNmcVZEN3ZZdGMzQXFhTmxSSmVkNVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjMxNjI5CWZpbGU6YWN0ZWVkb2cuYXBwLnRhci5negpxQTZzN0h4c0VEbXpTUmpuOEM2V1pDejhrM3J5akRPaEFZMU4zS0tDQms0VGQ3Uy9CT0RJTGIvWWluQXNkRFM1UjV6QXlvRnlJZ1dOQVg1RW0zS0ZCUT09Cg==",
-      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.0/acteedog_0.1.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUekR5T1pOeTRMUVJ6WHo4UkdYcVp3S0owaE1lcDNKZEF4UjFTOXBMcksxVW50RFRsZmkxSmplcXhDYkM3RldmUktNVjF2TnFxb1Qxd0ZXRVRLWFVOdXZDZGQwbEowM2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjMzMTc2CWZpbGU6YWN0ZWVkb2cuYXBwLnRhci5negppQndsUHpOSkFRUnZPTWdIWEZnaC9wTm1DQlFXQkVSTUNRRCtJbWpwMEVmL28zdUJDSXdhcklQUUFNdS9kRUJGdTRxdGl3MmoyYkoxczc0VXNjV2NDUT09Cg==",
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.1/acteedog_0.1.1_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.0/acteedog_0.1.0_amd64.deb"
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.1.1/acteedog_0.1.1_amd64.deb"
     }
   }
 }
