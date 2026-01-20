@@ -10,6 +10,20 @@ Download the latest version from [Releases](https://github.com/ymtdzzz/acteedog-
 
 - 🍎 **macOS** - Apple Silicon (aarch64)
 
+> [!WARNING]
+> **macOS users**
+>
+> This application is currently **not code-signed**.  
+> As a result, macOS may block it from running when downloaded.
+>
+> If the app is quarantined, you can remove the quarantine attribute with:
+>
+> ```bash
+> xattr -d com.apple.quarantine /path/to/Acteedog.app
+> ```
+>
+> Code signing will be added at the time of the official release.
+
 Coming soon:
 
 - 🪟 **Windows** - `.msi` or `.exe` installer
