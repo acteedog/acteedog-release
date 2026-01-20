@@ -1,6 +1,6 @@
 # Acteedog - Official Releases
 
-Daily activity tracking desktop application.
+A context-aware desktop application for daily activity tracking
 
 ## 📥 Download
 
@@ -8,9 +8,12 @@ Download the latest version from [Releases](https://github.com/ymtdzzz/acteedog-
 
 ### Supported Platforms
 
+- 🍎 **macOS** - Apple Silicon (aarch64)
+
+Coming soon:
+
 - 🪟 **Windows** - `.msi` or `.exe` installer
-- 🍎 **macOS** - Intel (x86_64) and Apple Silicon (aarch64)
-- 🐧 **Linux** - `.AppImage`
+- 🐧 **Linux** - `.deb` or `.rpm` or AUR package
 
 ## 🔄 Auto-Update
 
@@ -19,16 +22,19 @@ If you already have Acteedog installed:
 1. Open the app
 2. Go to **Settings** > **About**
 3. Click **"Check for Updates"**
+4. Restart the app
 
 ## 📖 Documentation
 
-- [User Guide](docs/user-guide.md)
-- [FAQ](docs/faq.md)
-- [Changelog](CHANGELOG.md)
+TBD
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use [Issues](https://github.com/ymtdzzz/acteedog-release/issues) for bug reports and feature requests.
+- **App-related issues** (bugs, feature requests, UI, performance, etc.):  
+  👉 https://github.com/acteedog/acteedog-release/issues
+
+- **Connector-related issues** (existing connectors, new connector requests, schema, etc.):  
+  👉 https://github.com/acteedog/acteedog-connectors/issues
 
 ## 📜 License
 
