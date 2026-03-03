@@ -24,10 +24,8 @@ Download the latest version from [Releases](https://github.com/ymtdzzz/acteedog-
 >
 > Code signing will be added at the time of the official release.
 
-Coming soon:
-
-- 🪟 **Windows** - `.msi` or `.exe` installer
-- 🐧 **Linux** - `.deb` or `.rpm` or AUR package
+- **Windows** - x86_64
+- **Linux** - x86_64
 
 ## 🔄 Auto-Update
 
