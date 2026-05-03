@@ -1,4 +1,4 @@
-# Acteedog - Official Releases
+# [Acteedog](https://acteedog.com) - Official Releases
 
 A local-first desktop app that unifies your work logs for AI
 
