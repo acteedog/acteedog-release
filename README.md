@@ -4,7 +4,7 @@ A local-first desktop app that unifies your work logs for AI
 
 ## 📥 Download
 
-Download the latest version from [Releases](https://github.com/ymtdzzz/acteedog-release/releases/latest).
+Download the latest version from [Releases](https://github.com/acteedog/acteedog-release/releases/latest).
 
 ### Supported Platforms
 
@@ -20,6 +20,30 @@ If you already have Acteedog installed:
 2. Go to **Settings** > **About**
 3. Click **"Check for Updates"**
 4. Restart the app
+
+## 🤖 AI Agent Skills
+
+Acteedog ships agent skills that work with [Claude Code](https://claude.ai/code) and other AI coding assistants.
+
+### Installation
+
+```bash
+npx skills add acteedog/acteedog-release
+```
+
+### Available Skills
+
+| Skill | Description |
+|-------|-------------|
+| `daily-report-en` | Fetches your activities from the Acteedog MCP server and generates a structured daily report in English |
+| `daily-report-ja` | Fetches your activities from the Acteedog MCP server and generates a structured daily report in Japanese |
+
+### Requirements
+
+- [Acteedog](https://acteedog.com) installed and running
+- Acteedog MCP server configured in your AI assistant
+  - [English setup guide](https://acteedog.com/en/docs/getting-started/daily-report/mcp)
+  - [日本語セットアップガイド](https://acteedog.com/ja/docs/getting-started/daily-report/mcp)
 
 ## 📖 Documentation
 
