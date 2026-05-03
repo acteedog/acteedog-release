@@ -42,8 +42,8 @@ npx skills add acteedog/acteedog-release
 
 - [Acteedog](https://acteedog.com) installed and running
 - Acteedog MCP server configured in your AI assistant
-  - [English setup guide](https://acteedog.com/en/docs/getting-started/daily-report/mcp)
-  - [日本語セットアップガイド](https://acteedog.com/ja/docs/getting-started/daily-report/mcp)
+  - [English setup guide](https://acteedog.com/en/docs/ai-integration/mcp-server)
+  - [日本語セットアップガイド](https://acteedog.com/ja/docs/ai-integration/mcp-server)
 
 ## 📖 Documentation
 
