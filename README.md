@@ -1,6 +1,6 @@
 # Acteedog - Official Releases
 
-A context-aware desktop application for daily activity tracking
+A local-first desktop app that unifies your work logs for AI
 
 ## 📥 Download
 
@@ -8,22 +8,7 @@ Download the latest version from [Releases](https://github.com/ymtdzzz/acteedog-
 
 ### Supported Platforms
 
-- 🍎 **macOS** - Apple Silicon (aarch64)
-
-> [!WARNING]
-> **macOS users**
->
-> This application is currently **not code-signed**.  
-> As a result, macOS may block it from running when downloaded.
->
-> If the app is quarantined, you can remove the quarantine attribute with:
->
-> ```bash
-> xattr -d com.apple.quarantine /path/to/Acteedog.app
-> ```
->
-> Code signing will be added at the time of the official release.
-
+- **macOS** - Apple Silicon (aarch64)
 - **Windows** - x86_64
 - **Linux** - x86_64
 
@@ -38,7 +23,8 @@ If you already have Acteedog installed:
 
 ## 📖 Documentation
 
-TBD
+- 日本語: https://acteedog.com/ja/docs
+- English: https://acteedog.com/en/docs
 
 ## 🐛 Bug Reports & Feature Requests
 
