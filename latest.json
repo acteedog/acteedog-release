@@ -1,15 +1,15 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "notes": "See the full changelog at https://github.com/acteedog/acteedog-release/blob/main/CHANGELOG.md",
-  "pub_date": "2026-05-03T04:25:00Z",
+  "pub_date": "2026-05-08T01:30:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUekR5T1pOeTRMUWNZd3E2VEdYdnllU1A2cmRDMGIzMWVMUkE0aksxWFk5TlhjOWZJS1pjUXBNQi9vaWN3MitldExxbm9VOGNFdlVtaGMrR2w4MDJ2TTRPZ1g4V1BWRGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzgyMjY3CWZpbGU6YWN0ZWVkb2dfMC40LjBfeDY0LXNldHVwLmV4ZQpUTDAxcE9uU0RQRW8rU0w3cG9WSEQreUNjcXVpK280cXNtRWNSRnFVZS9BZ0hkMjQ3MktUemxicE1MQnhqNlovMmtobG1UdFhXazZaYXd4QmdIendBUT09Cg==",
-      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.4.0/acteedog_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUekR5T1pOeTRMUVRQd3ZxamNSSDlPK056SFZEekxmUVlHQ1dKVmViQUFubTg3eC8yTFhsY0UrZ1UvSjZoYlpqWEppYVBaTUl3U2FkQzBqRldYWmJHZElhOG1TSEJkSUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjAzNzgxCWZpbGU6YWN0ZWVkb2dfMC40LjFfeDY0LXNldHVwLmV4ZQpiUFZydytzMFMwYlBUU3BOMk5OVFZ6RDlES3FyZndRa3ozQWxuSWo4TDhsQUYyZ3hmeENucU9lc0cxU05mUTNjQ3ZNaUI5TlE5SHp4Um9KYUJ5bFRCUT09Cg==",
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.4.1/acteedog_0.4.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUekR5T1pOeTRMUVY5d3ZaOEZoVWp6MTE4ZHVSZHFQMVFCbHp4cEp2T0xvUFpURXB3NUY2UFVLdDEzNXZvcElrWWxhbXFWS3VwRStmaUEzRTZRYTd1TDFOWC81RHU1cFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzgwOTUwCWZpbGU6YWN0ZWVkb2cuYXBwLnRhci5negprenNxd2UyRDZ1b2dlS1JoZlVmRWVDQVRwdXA4RDN4d1BPeDQxZXVJckkrbWNhblJzeDFnQTBRNnJla3k0aWVPcFhMck85STdBdkhjV0hMRllZVHNBUT09Cg==",
-      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.4.0/acteedog_0.4.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUekR5T1pOeTRMUVlXZkNxKzFUV1JKcTBmUVRtcGtBUkpVU3JWS3dLMEl0T096MHd3NmprVEpQN1Zzd2tCb05rQ2VrZlRFNFU3b05iR1NPTU9MUmM4S3VYWXdRL1JKOFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjAyMzU0CWZpbGU6YWN0ZWVkb2cuYXBwLnRhci5negpWOVJ3SExpMndDemdpdEZqOVc5cTVZUC9hUkR3U3ZUbTNPL1NGTVV5RS9NUlF3dFNlUnNHMEdrUnoxbndKQjNrTE5ORGgvdWM1TENEamNnbnNjVFlEQT09Cg==",
+      "url": "https://github.com/acteedog/acteedog-release/releases/download/v0.4.1/acteedog_0.4.1_aarch64.app.tar.gz"
     }
   }
 }
